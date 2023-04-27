@@ -42,7 +42,7 @@ h3 {
 
 /* Title */
 #title {
-    background-color: #ff4c68;
+    background-color: #40513B;
     color: white;
 }
 
@@ -66,12 +66,12 @@ h3 {
 
 /* Features */
 .features-icon {
-    color: #ef8172;
+    color: #609966;
     padding-bottom: 2rem;
 }
 
 .features-icon:hover {
-    color :#ff4c68;
+    color :#40513B;
 }
 
 .features-subtext {
@@ -80,14 +80,14 @@ h3 {
 
 #features {
     padding: 7% 15%;
-    background-color: white;
+    background-color: #EDF1D6;
     position: relative;
     z-index: 1;
 }
 
 /* Testimonial */
 #testimonials {
-    background-color: #ef8172;
+    background-color: #609966;
     color: white;
 }
 
@@ -98,7 +98,7 @@ h3 {
 }
 
 #press {
-    background-color: #ef8172;
+    background-color: #609966;
     padding-bottom: 3%;
 }
 
@@ -115,6 +115,7 @@ h3 {
 
 #pricing {
     padding: 100px;
+    background-color: #EDF1D6;
 }
 
 .pricing-column {
@@ -124,7 +125,7 @@ h3 {
 /* Call To Action */
 
 #cta {
-    background-color: #ff4c68;
+    background-color: #40513B;
     padding: 7rem;
 }
 
@@ -142,9 +143,9 @@ h3 {
 /* Footer */
 
 #footer {
-    background-color: white;
-    margin-top: 5rem;
-    margin-bottom: 3rem;
+    background-color: #EDF1D6;
+    padding-top: 5rem;
+    padding-bottom: 3rem;
 }
 
 .footer-icons {
@@ -153,6 +154,7 @@ h3 {
 
 .footer-p {
     color: grey;
+    background-color: #EDF1D6;
 }
 
 /* Media Queries */
@@ -166,6 +168,6 @@ h3 {
     .title-image {
         position: static;
         rotate: 0deg;
-        width: 40%;
+        width: 90%;
     }
 }
